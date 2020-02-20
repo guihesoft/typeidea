@@ -1,0 +1,2 @@
+# typeidea
+my Django test
